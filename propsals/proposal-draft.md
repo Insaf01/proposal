@@ -1,4 +1,4 @@
-# Decred Arabia Communications and Content Creation Proposal
+# Decred Arabia Communications and Content Creation
 
 ## What?
 
