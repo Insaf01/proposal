@@ -77,8 +77,6 @@ Events  | Working Hours         |    $250    |   4   |      $1,000
 Videos  | Research + Scripting  |    $300    |   3   |        $900
 Videos  | Filming + Editing     |    $400    |   3   |      $1,200
 
-Total : $5,500
-
 The total budget of this proposal is **USD $5,500** to be used during 6 months after approval.
 
 **Thanks for reading!**
