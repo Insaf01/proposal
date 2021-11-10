@@ -9,7 +9,9 @@ End Date: 2022-11-30
 
 ## Summary
 
-This proposal renews the funding for creation of content and communications in Arabic for 10-12 months.
+This proposal extends financing for content and communications in Arabic for 10-12 months to increase Decred's awareness, presence, and adoption in the Arabic region.
+
+Numerous Arabic governments have been interested in the possibilities of blockchains in recent years, investing in specialized departments or simply engaging in agreements with multinationals in the industry. Numerous startup firms have emerged, supporting the growth of this technology in the Arabic world.
 
 ## Phase 1 report
 
