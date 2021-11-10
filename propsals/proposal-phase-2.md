@@ -68,7 +68,7 @@ This proposal's budget covers all marketing materials, travel expenses and spons
 
 ## Who?
 
-This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design). Other contributors are welcome to join.
+This proposal will be executed by Decred in Arabia Ops team: [arij](https://twitter.com/in_insaf) 'Insaf Nori' (Decred Arabia, Community Manager) and [Zakaria](https://twitter.com/aithzakaria1) (Design). Other contributors are welcome to join.
 
 ## Budget
 
