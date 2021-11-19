@@ -11,7 +11,7 @@ End Date: 2022-11-30
 
 This proposal extends funding for content and communications in Arabic for 10-12 months to increase awareness, presence, and adoption of Decred in the Arabic region.
 
-Arabic is spoken by [+400 million](https://en.wikipedia.org/wiki/List_of_countries_where_Arabic_is_an_official_language) people in +20 countries like Morocco, Arabie Saudite, Dubai, and others. Crypto trading volumes have been [on the rise](https://www.coindesk.com/markets/2021/03/22/crypto-is-banned-in-morocco-but-bitcoin-purchases-are-soaring/) despite regulatory obstacles. The share of [unbanked](https://www.gfmag.com/global-data/economic-data/worlds-most-unbanked-countries) population is high due to poor access to banking services, high fees and low privacy. These factors create an opportunity for building Decred community in the region.
+Arabic is spoken by [400+ million](https://en.wikipedia.org/wiki/List_of_countries_where_Arabic_is_an_official_language) people in 20+ countries like Morocco, Saudi Arabia, Dubai, and others. Crypto trading volumes have been [on the rise](https://www.coindesk.com/markets/2021/03/22/crypto-is-banned-in-morocco-but-bitcoin-purchases-are-soaring/) despite regulatory obstacles. The share of [unbanked](https://www.gfmag.com/global-data/economic-data/worlds-most-unbanked-countries) population is high due to poor access to banking services, high fees and low privacy. These factors create an opportunity for building Decred community in the region.
 
 ## Phase 1 report
 
