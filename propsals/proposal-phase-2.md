@@ -83,6 +83,8 @@ We propose a budget limit of **USD 10,600** for 12 months (average ~$880/month).
 | Videos   | Research + scripting + filming + editing   |  $700  |    3  |     $2,100  |
 |          | Total                                      |        |       |    $10,600  |
 
+We may swap some self-organized events for sponsorships where it adds more value but the total limit will be respected.
+
 Special thanks to @bee for his help and insightful feedback in polishing this proposal.
 
 We really appreciate your time and consideration. Yet again, any and all helpful feedback is greatly appreciated.
