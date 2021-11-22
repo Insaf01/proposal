@@ -70,7 +70,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose a budget limit of **USD 10,600** for 12 months (average ~$880/month). All funds not spent by the proposal will remain in the treasury.
+We propose a budget limit of **USD 10,600** for 12 months, with the average of $880/month. For comparison, the previous [proposal](https://proposals.decred.org/proposals/d0c32d5) had 6+ months with an average $1,030/month. All funds not spent by the proposal will remain in the treasury.
 
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
