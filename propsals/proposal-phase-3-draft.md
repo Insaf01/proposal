@@ -66,9 +66,11 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose a budget limit of USD 12,550 for 12 months, with the average of $1,046/month. **All funds not spent by the proposal will remain in the treasury.**
+We propose a budget limit of USD 13,000 for 11 months, with the average of $1,182/month. Additionally, $450 is included for the two past events attended in December 2022 and January 2023.
 
-Billable work will be done between February 1, 2023 and January 1, 2023.
+**All funds not spent by the proposal will remain in the treasury.**
+
+Future billable work will be done between February 1, 2023 and January 1, 2023.
 
 | Category | Details                                    | Price  | Units | Total Price |
 |----------|--------------------------------------------|-------:|------:|------------:|
@@ -82,8 +84,9 @@ Billable work will be done between February 1, 2023 and January 1, 2023.
 | Events   | Food and drinks                            |   $200 |     3 |        $600 |
 | Events   | Printing materials                         |   $100 |     3 |        $300 |
 | Events   | Working hours                              |   $250 |     3 |        $750 |
+| Events   | Past two events                            |   $450 |     1 |        $450 |
 | Videos   | Research + scripting + filming + editing   |   $700 |     3 |      $2,100 |
-|          | Total                                      |        |       |     $12,550 |
+|          | Total                                      |        |       |     $13,000 |
 
 * GDG: Google Developer Groups
 * JCI: The Junior Chamber International of Morocco
