@@ -66,7 +66,7 @@ This proposal will be executed by Decred in Arabia Ops team: [arij](https://twit
 
 ## Budget
 
-We propose a budget limit of USD 13,000 for 11 months, with the average of $1,182/month. Additionally, $450 is included for the two past events attended in December 2022 and January 2023.
+We propose a budget limit of USD 12,550 for 11 months, with the average of $1,141/month. In addition of $450 for the two past events attended in December 2022 and January 2023.
 
 **All funds not spent by the proposal will remain in the treasury.**
 
