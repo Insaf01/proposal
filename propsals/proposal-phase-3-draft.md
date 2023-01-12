@@ -2,7 +2,7 @@
 
 ```
 Domain: Marketing
-Amount: $12,550
+Amount: $13,000
 Start Date: 2023-02-01
 End Date: 2024-01-01
 ```
@@ -84,7 +84,7 @@ Future billable work will be done between February 1, 2023 and January 1, 2023.
 | Events   | Food and drinks                            |   $200 |     3 |        $600 |
 | Events   | Printing materials                         |   $100 |     3 |        $300 |
 | Events   | Working hours                              |   $250 |     3 |        $750 |
-| Events   | Past two events                            |   $450 |     1 |        $450 |
+| Events   | Past two events in Dec/Jan (reimbursement) |   $450 |     1 |        $450 |
 | Videos   | Research + scripting + filming + editing   |   $700 |     3 |      $2,100 |
 |          | Total                                      |        |       |     $13,000 |
 
