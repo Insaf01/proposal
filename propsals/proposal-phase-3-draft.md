@@ -1,5 +1,14 @@
 # Decred Arabia Communications and Content 2023
 
+```
+Domain: Marketing
+Amount: $12,550
+Start Date: 2023-02-01
+End Date: 2024-01-01
+```
+
+## Summary
+
 This proposal is a summary and a continuation for Arabic content and communication over the next twelve months so that more people in the Arabic region know about Decred and use it.
 
 Cryptocurrency adoption has skyrocketed in the Middle East and North Africa (MENA) region. According to a [survey](https://blog.chainalysis.com/reports/middle-east-north-africa-cryptocurrency-geography-report-2022-preview/) by blockchain analytics platform Chainalysis, MENA countries have the fastest-growing cryptocurrency industry in the world, accounting for 9.2% of global digital currency transactions from July 2021 to June 2022. Three of the top 30 nations in this year’s Crypto Adoption Index are located in the MENA region: Turkey (ranking 12), Egypt (ranking 14), and Morocco (ranking 24).
