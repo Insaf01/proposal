@@ -1,17 +1,59 @@
-### Decred Arabia Communications and Content 2024 Proposal
+# Decred Arabia Communications and Content 2024 Proposal
 
 * **Domain**: Marketing
 * **Amount**: $18,500.00
-* **Start Date**: June 2024
-* **End Date**: 01 March 2025
+* **Start Date**: 01 July 2024
+* **End Date**: 01 April 2025
+
+## Introduction
+
+The **Decred Arabia Communications and Content 2024** proposal aims to significantly enhance Decred's footprint in Arabic-speaking regions through targeted communications, educational content, and community engagement. Building on the success of previous years, this initiative will leverage strategic outreach and innovative content creation to foster a deeper understanding and adoption of Decred technology. By addressing the unique needs of the Arabic-speaking community, this proposal seeks to bridge the knowledge gap, standardize blockchain terminology, and promote Decred's core values of decentralization, transparency, and security.
 
 ## Summary
 
-Decred Arabia Communications and Content 2024 is an initiative aimed at expanding Decred's presence and engagement in Arabic-speaking regions through strategic communications, educational content, and community events. This proposal leverages the successes of previous years and introduces new strategies to enhance Decred's visibility and adoption.
+The **Decred Arabia Communications and Content 2024** proposal aims to expand Decred's presence and engagement in Arabic-speaking regions through strategic communications, educational content, and community events. By leveraging past successes, this initiative will introduce new strategies to enhance Decred's visibility and adoption. Key objectives include producing high-quality educational videos, actively participating in significant events, and creating an Arabic glossary to standardize blockchain terminology. This comprehensive approach will foster a deeper understanding and engagement with Decred technology, ultimately strengthening its position in the Arabic-speaking market.
 
 ## Motivation
 
-In 2023, Decred's outreach included participation in significant events, educational video production, and active engagement on social media platforms. While these efforts have strengthened Decred's presence, there is a need to further penetrate the Arabic-speaking market by creating targeted content and participating in high-impact events.
+In 2023, Decred's outreach in Arabic-speaking regions demonstrated significant impact and potential for growth. Here are some specific examples and data points:
+
+1. **Event Participation**:
+   - We had the opportunity to participate in an event that attracted more than 600 participants, highlighting blockchain investment and ecosystem development.
+   - Another event we attended attracted over 20,000 participants, providing extensive networking opportunities and introducing Decred to a broad audience.
+
+2. **Educational Content**:
+   - Produced educational videos such as "Peer-to-Peer Transactions on Decrediton" and "Understanding and Using Timestamply," which received positive feedback and increased views on social media platforms.
+     - **Peer-to-Peer Transactions on Decrediton Wallet**:
+       - Views: 71
+       - Viewing time: 4.3 hours (1.3 more than usual)
+       - Subscribers: +2
+       - Impressions: 1,638
+       - Click-through rate: 2.0%
+       - Average viewing time: 3:37 (2:09 more than usual)
+     - **Understanding and Using Timestamply**:
+       - Views: 100
+       - Viewing time: 2.6 hours
+       - Subscribers: +2
+       - Impressions: 379
+       - Click-through rate: 10.0%
+       - Average viewing time: 1:32 (0:07 longer than usual)
+
+3. **Community Engagement**:
+   - **Social Media Growth**: Our social media presence has shown significant changes since the Decred Arabia Communications and Content initiatives in previous years:
+     - **Twitter**:
+       - @DecredArabia: ~286 followers (+4)
+       - @in_insaf: ~414 followers (+33)
+     - **Telegram**:
+       - @decredarabia: ~45 users (-50)
+     - **Facebook**:
+       - DecredArabia: ~414 followers (+21)
+     - **YouTube**:
+       - DecredArabia: ~87 subscribers (+14) and 2,869 views (+497)
+
+4. **Partnerships**:
+   - Established a significant partnership with the National Institute of Innovation and Advanced Technology (NIIAT) to promote community empowerment and technological innovation, showcasing Decred's commitment to fostering local collaborations.
+
+These efforts have strengthened Decred's presence, but there remains substantial potential to further penetrate the Arabic-speaking market. By expanding targeted content, participating in high-impact events, and creating resources like an Arabic glossary, we can build on this momentum and achieve greater visibility and adoption of Decred technology.
 
 ## Goals
 
@@ -85,19 +127,38 @@ Below is a summary of activity and expenses for the second [Decred Arabia Commun
    - **Location**: Hassan First University, Settat, Morocco
    - **Description**: Spoke about the power of blockchain and Decred to developers and computer science students.
    - **Organizers**: GDG Settat
-   - **Link**: [Event Details](https://github.com/decredcommunity/events/blob/master/index/20230107.1.yml)
+   - **Link**: [Event Details](https://github.com/decredcommunity/events/blob/master/index/20230107)
+
+.1.yml)
 
 ### Videos
 
 1. **Peer-to-Peer Transactions on Decrediton**: [YouTube](https://youtu.be/RZz-yPziXwQ)
+   - Views: 71
+   - Viewing time: 4.3 hours (1.3 more than usual)
+   - Subscribers: +2
+   - Impressions: 1,638
+   - Click-through rate: 2.0%
+   - Average viewing time: 3:37 (2:09 more than usual)
 2. **Understanding and Using Timestamply**: [YouTube](https://youtu.be/xvsoded_XsU)
+   - Views: 100
+   - Viewing time: 2.6 hours
+   - Subscribers: +2
+   - Impressions: 379
+   - Click-through rate: 10.0%
+   - Average viewing time: 1:32 (0:07 longer than usual)
 
 ### Social Media
 
-- **Twitter**: [DecredArabia](https://twitter.com/DecredArabia)
-- **Facebook**: [DecredArabia](https://www.facebook.com/DecredArabia)
-- **YouTube**: [DecredArabia](https://www.youtube.com/@decredarabia5266)
-- **Telegram**: [DecredArabia](https://t.me/decredarabia)
+- **Twitter**:
+  - @DecredArabia: ~286 followers (+4)
+  - @in_insaf: ~414 followers (+33)
+- **Telegram**:
+  - @decredarabia: ~45 users (-50)
+- **Facebook**:
+  - DecredArabia: ~414 followers (+21)
+- **YouTube**:
+  - DecredArabia: ~87 subscribers (+14) and 2,869 views (+497)
 
 ### Translations
 
@@ -142,9 +203,7 @@ Regular educational videos will be produced and released approximately twice a m
    - **Video 2**: Participating in Decred Governance
      - How to get involved in Decred's governance.
      - Step-by-step guide to voting and proposal submission.
-   - **Video 3**: Governance Best Practices and
-
- Challenges
+   - **Video 3**: Governance Best Practices and Challenges
      - Best practices for effective participation in Decred governance.
      - Common challenges and how to overcome them.
 
@@ -242,4 +301,4 @@ The Decred Arabia Communications and Content 2024 initiative is designed to sign
 3. **Event Participation**: Assess the attendance and engagement levels at events where Decred is showcased, noting the number of new connections and partnerships formed.
 4. **Glossary Usage**: Monitor the number of visits and user feedback on the Arabic glossary to evaluate its effectiveness and relevance.
 
-By achieving these metrics, the Decred Arabia Communications and Content 2024 initiative will demonstrate its impact on expanding Decred's presence and fostering a more informed and active community in the Arabic-speaking world.
+By achieving these metrics, the Decred Arabia Communications and Content 2024 initiative will demonstrate its impact on expanding Decred's presence and fostering a more informed and active community in the Arabic
